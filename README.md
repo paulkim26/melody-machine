@@ -8,4 +8,4 @@ Professor:  George Kougioumtzoglou
 
 Students:   Paul Seung Kyung Kim, Brendan Yawney, Daniel Sirkovich
 
-Projects:   Midterm Project
+Projects:   Midterm Project, Final Project

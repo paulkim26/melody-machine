@@ -5,6 +5,8 @@
 ## Introduction
 Melody Machine is a 3D action platformer created in Unreal Engine 4.
 
+![preview](Documentation/screenshot.PNG)
+
 Alex - a 20-something millennial with a liberal arts degree and dreams of hitting it big as a rock star - seeks to escape an unhinged urban dystopia dreamscape armed with nothing but her trusty Fender Stratocaster.
 
 Each level finds Alex jumping across moving platforms, collecting vinyls, and fending off monstrous manifestations of societal pressures and her own inner demons.
